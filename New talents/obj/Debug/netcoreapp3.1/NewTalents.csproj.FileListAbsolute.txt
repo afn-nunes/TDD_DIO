@@ -1,0 +1,14 @@
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.exe
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\afnnu\source\repos\New talents\New talents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.dll
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
+C:\Users\afnnu\source\repos\New talents\New talents\obj\Debug\netcoreapp3.1\NewTalents.csproj.AssemblyReference.cache
